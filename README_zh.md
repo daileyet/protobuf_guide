@@ -2,6 +2,8 @@
 
 [English](./README.md) [Chinese](README_zh.md)
 
+Protocol buffers 是谷歌用于序列化数据的方案,具有语言无关、平台无关、可扩展的机制 – 类似XML, 但更小、更快和更简单。一旦定义了数据的结构化方式，就可以使用特殊生成的源代码轻松地从各种数据流和使用各种语言编写和读取结构化数据。 
+
 ## 安装
 
 基于Linux Unbutun平台上源码安装 [C++ Installation - Unix](https://github.com/protocolbuffers/protobuf/tree/master/src)

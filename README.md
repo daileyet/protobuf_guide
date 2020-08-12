@@ -2,6 +2,8 @@
 
 [English](./README.md) [Chinese](README_zh.md)
 
+Protocol buffers are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data – think XML, but smaller, faster, and simpler. You define how you want your data to be structured once, then you can use special generated source code to easily write and read your structured data to and from a variety of data streams and using a variety of languages. 
+
 ## Installtion
 
 On Unbuntu, we can install protobuf from source code. [C++ Installation - Unix](https://github.com/protocolbuffers/protobuf/tree/master/src)
