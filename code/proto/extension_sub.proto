@@ -1,0 +1,9 @@
+syntax = "proto2";
+
+import "extension_main.proto";
+
+package example;
+
+extend Foo {
+    optional int32 bar = 126;
+}

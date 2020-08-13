@@ -145,3 +145,7 @@ java -cp "code/java:/home/<user>/.m2/repository/com/google/protobuf/protobuf-jav
 ```
 
 > NOTE: separated token of classpath option is `:` in Linux and `;` in Window.
+
+## Language Guide
+
+For more details of protocol buffer language, please refer to [Language Guide](doc/language_guide.md).
