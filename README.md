@@ -106,6 +106,9 @@ g++ -std=c++11 code/c++/addressbook.pb.cc code/c++/readmsg.cpp -o code/c++/readm
 ./code/c++/readmsg.out code/c++/my.adr
 ```
 
+#### Build with CMake
+
+[Protobuf sample by CMake ](./doc/cmake_protobuf.md)
 
 ### Java
 
